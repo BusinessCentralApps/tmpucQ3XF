@@ -1,0 +1,8 @@
+{
+  "generateDependencyArtifact": true,
+  "MicrosoftTelemetryConnectionString": "",
+  "runs-on": "ubuntu-latest",
+  "shell": "pwsh",
+  "type": "PTE",
+  "templateUrl": "https://github.com/businesscentralapps/tmpLwAJRd-PTE@main"
+}
